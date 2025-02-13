@@ -11,8 +11,6 @@
 4. [Utilized Python Libraries](#Utilized-Python-Libraries)
 5. [Installation](#Installation)
 6. [Summary of Results and Methods Used](#Summary-of-Results-and-Methods-Used)
-7. [Acknowledgments](#Acknowledgments)
-8. [Graphs](#Graphs)
 
 <!-- Project Overview -->
 ## About The Project
